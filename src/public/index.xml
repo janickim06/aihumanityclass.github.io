@@ -6,8 +6,15 @@
     <description>Recent content on AI and Humanity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aihumanityclass.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 2</title>
+      <link>https://aihumanityclass.github.io/class2/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aihumanityclass.github.io/class2/</guid>
+      <description>&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/72ww9ymfjjnsg7sid5ega/cs4501ha-s26-class2.pdf?rlkey=jzp5xor5sp86a9igfmjopgr82&amp;amp;dl=0&#34;&gt;Class 2 Slides (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;&#xA;&lt;p&gt;You should be in one of the on-line discussion groups now, and should have received (or will soon receive) a message from your TA to start discussion there.&lt;/p&gt;&#xA;&lt;p&gt;Check the &lt;a href=&#34;https://aihumanityclass.github.io/schedule&#34;&gt;Team Schedule&lt;/a&gt; to be sure you know your Table Team&amp;rsquo;s upcoming responbilities, and &lt;a href=&#34;https://aihumanityclass.github.io/readings2&#34;&gt;Readings for Week 2&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve talked about several of the themes from today in other places. You can see videos from a 2014 cs4414: Operating Systems course here: &lt;a href=&#34;https://rust-class.org/class-23-invent-the-future.html&#34;&gt;&lt;em&gt;Invent the Future!&lt;/em&gt;&lt;/a&gt; (that talk was in 2014 and I make some predictions targeting the 15-year future in 2029, so we&amp;rsquo;re getting pretty close to see how badly I did&amp;hellip;) A more recent version is: &lt;a href=&#34;https://youtu.be/n1oVRhRatmE?si=o4ZxT5_W3sT4nCcy&#34;&gt;&lt;em&gt;Jobs for Humans, 2030-2045&lt;/em&gt;&lt;/a&gt; from TEDxChantilly.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Readings for Week 2</title>
       <link>https://aihumanityclass.github.io/readings2/</link>
@@ -21,13 +28,6 @@
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://aihumanityclass.github.io/tablemap/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s the Table Teams map for the next class:&lt;/p&gt;&#xA;&lt;center&gt;&#xA;&lt;img src=&#34;https://aihumanityclass.github.io/images/tablemap-15jan.png&#34; width=&#34;80%&#34;&gt;&#xA;&lt;/center&gt;</description>
-    </item>
-    <item>
-      <title>Class 1</title>
-      <link>https://aihumanityclass.github.io/class1/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://aihumanityclass.github.io/class1/</guid>
-      <description>&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/cp6x3fb77pts56vtopuyx/cs4501ha-s26-class1.pdf?rlkey=iw2gh83l93v71usu57t8us14g&amp;amp;dl=0&#34;&gt;Class 1 Slides (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;&#xA;&lt;p&gt;By &lt;strong&gt;8:29 PM&lt;/strong&gt; tonight (&lt;strong&gt;13 January 2026&lt;/strong&gt;) everyone who wants to be in the class should submit the &lt;strong&gt;Starting the Course Survey&lt;/strong&gt; in Canvas: [&lt;a href=&#34;https://canvas.its.virginia.edu/courses/161890/quizzes/161089&#34;&gt;Canvas Link&lt;/a&gt;].&lt;/p&gt;&#xA;&lt;p&gt;We will make team assignments for your table teams and on-line discussion groups based on the survey submissions, and aim to have these ready by tomorrow.&lt;/p&gt;&#xA;&lt;p&gt;Readings for Thursday, 15 January:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Neil deGrasse Tyson, &lt;a href=&#34;https://aihumanityclass.github.io/docs/tyson-endless-golden-age.pdf&#34;&gt;&lt;em&gt;Science&amp;rsquo;s Endless Golden Age&lt;/em&gt;&lt;/a&gt;. Published in &lt;a href=&#34;https://archive.org/details/invisiblefutures01denn&#34;&gt;&lt;em&gt;The Invisible Future: the seamless integration of technology into everday life&lt;/em&gt;&lt;/a&gt;, edited by Peter J. Denning, November 2001. [&lt;a href=&#34;https://aihumanityclass.github.io/docs/tyson-endless-golden-age.pdf&#34;&gt;PDF Link&lt;/a&gt;]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Class 1</title>

@@ -1,25 +1,25 @@
 +++
-date = "13 Jan 2026"
+date = "15 Jan 2026"
 draft = false
-title = "Class 1"
+title = "Class 2"
 author = "David Evans"
-slug = "class1"
+slug = "class2"
 +++
 
 ## Slides
 
-[Class 1 Slides (PDF)](https://www.dropbox.com/scl/fi/cp6x3fb77pts56vtopuyx/cs4501ha-s26-class1.pdf?rlkey=iw2gh83l93v71usu57t8us14g&dl=0)
+[Class 2 Slides (PDF)](https://www.dropbox.com/scl/fi/72ww9ymfjjnsg7sid5ega/cs4501ha-s26-class2.pdf?rlkey=jzp5xor5sp86a9igfmjopgr82&dl=0)
 
 ## Schedule
 
-By **8:29 PM** tonight (**13 January 2026**) everyone who wants to be in the class should submit the **Starting the Course Survey** in Canvas: [[Canvas Link](https://canvas.its.virginia.edu/courses/161890/quizzes/161089)].
+You should be in one of the on-line discussion groups now, and should have received (or will soon receive) a message from your TA to start discussion there.
 
-We will make team assignments for your table teams and on-line discussion groups based on the survey submissions, and aim to have these ready by tomorrow.
+Check the [Team Schedule](/schedule) to be sure you know your Table Team's upcoming responbilities, and [Readings for Week 2](/readings2).
 
-Readings for Thursday, 15 January:
+## Links
 
-- Neil deGrasse Tyson, [_Science's Endless Golden Age_](/docs/tyson-endless-golden-age.pdf). Published in [_The Invisible Future: the seamless integration of technology into everday life_](https://archive.org/details/invisiblefutures01denn), edited by Peter J. Denning, November 2001. [[PDF Link](/docs/tyson-endless-golden-age.pdf)]
+I've talked about several of the themes from today in other places. You can see videos from a 2014 cs4414: Operating Systems course here: [_Invent the Future!_](https://rust-class.org/class-23-invent-the-future.html) (that talk was in 2014 and I make some predictions targeting the 15-year future in 2029, so we're getting pretty close to see how badly I did...) A more recent version is: [_Jobs for Humans, 2030-2045_](https://youtu.be/n1oVRhRatmE?si=o4ZxT5_W3sT4nCcy) from TEDxChantilly.
 
-- Isaac Asimov, [_Visit to the World's Fair of 2014_](https://archive.nytimes.com/www.nytimes.com/books/97/03/23/lifetimes/asi-v-fair.html). New York Times, 16 August 1964. [[PDF Link](/docs/asimov1964.pdf)]
 
-- Charles C. Mann, [_We Live Like Royalty and Don’t Know It_](https://www.thenewatlantis.com/publications/we-live-like-royalty-and-dont-know-it). The New Atlantis, Winder 2025. (Just expected to read the introduction webpage (everything in the PDF).) [[PDF Link](/docs/mann2025.pdf)]
+
+
