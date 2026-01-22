@@ -7,12 +7,7 @@ author = "Team 9"
 
 Replace this with your blog!
 
-**Blogging Team 9**:
-Ramaka, Shriya
-Pavuloori, Amita
-Butler, Eva
-Nyberg, Ted
-Cheung, Christine
+**Blogging Team 9**: Shriya Ramaka, Amita Pavuloori, Eva Butler, Ted Nyberg, Christine Cheung
 
 
 # Marking Big Heading
