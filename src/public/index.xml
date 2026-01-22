@@ -6,8 +6,15 @@
     <description>Recent content on AI and Humanity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aihumanityclass.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readings for Week 3</title>
+      <link>https://aihumanityclass.github.io/readings-for-week-3/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aihumanityclass.github.io/readings-for-week-3/</guid>
+      <description>&lt;p&gt;Readings for Tuesday, 27 January:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli, and Demis Hassabis. &lt;em&gt;Highly accurate protein structure prediction with AlphaFold&lt;/em&gt;. Nature, 26 August 2021. [&lt;a href=&#34;https://aihumanityclass.github.io/docs/alphafold2-jumper2021.pdf&#34;&gt;PDF Link&lt;/a&gt;] (Optional: There is an &amp;ldquo;AlphaFold 3&amp;rdquo; now, described in [&lt;a href=&#34;https://aihumanityclass.github.io/docs/alphafold3.pdf&#34;&gt;this paper&lt;/a&gt;].)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Class 3</title>
       <link>https://aihumanityclass.github.io/class-3/</link>
@@ -28,13 +35,6 @@
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://aihumanityclass.github.io/class2/</guid>
       <description>&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/72ww9ymfjjnsg7sid5ega/cs4501ha-s26-class2.pdf?rlkey=jzp5xor5sp86a9igfmjopgr82&amp;amp;dl=0&#34;&gt;Class 2 Slides (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;&#xA;&lt;p&gt;You should be in one of the on-line discussion groups now, and should have received (or will soon receive) a message from your TA to start discussion there.&lt;/p&gt;&#xA;&lt;p&gt;Check the &lt;a href=&#34;https://aihumanityclass.github.io/schedule&#34;&gt;Team Schedule&lt;/a&gt; to be sure you know your Table Team&amp;rsquo;s upcoming responbilities, and &lt;a href=&#34;https://aihumanityclass.github.io/readings2&#34;&gt;Readings for Week 2&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve talked about several of the themes from today in other places. You can see videos from a 2014 cs4414: Operating Systems course here: &lt;a href=&#34;https://rust-class.org/class-23-invent-the-future.html&#34;&gt;&lt;em&gt;Invent the Future!&lt;/em&gt;&lt;/a&gt; (that talk was in 2014 and I make some predictions targeting the 15-year future in 2029, so we&amp;rsquo;re getting pretty close to see how badly I did&amp;hellip;) A more recent version is: &lt;a href=&#34;https://youtu.be/n1oVRhRatmE?si=o4ZxT5_W3sT4nCcy&#34;&gt;&lt;em&gt;Jobs for Humans, 2030-2045&lt;/em&gt;&lt;/a&gt; from TEDxChantilly.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Readings for Week 2</title>
-      <link>https://aihumanityclass.github.io/readings2/</link>
-      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://aihumanityclass.github.io/readings2/</guid>
-      <description>&lt;p&gt;Reading for Tuesday, 20 January:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dario Amodei (CEO and co-founder of Anthropic), &lt;a href=&#34;https://www.darioamodei.com/essay/machines-of-loving-grace#basic-assumptions-and-framework&#34;&gt;&lt;em&gt;Machines of Loving Grace: How AI Could Transform the World for the Better&lt;/em&gt;&lt;/a&gt;. October 2024&#xA;[&lt;a href=&#34;https://aihumanityclass.github.io/docs/amodei2024.pdf&#34;&gt;PDF Link&lt;/a&gt;]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Readings for Thursday, 22 January:&lt;/p&gt;&#xA;&lt;p&gt;Lead team should read both of the papers below and plan to talk about both of them. Other students can select &lt;em&gt;one&lt;/em&gt; of the &lt;em&gt;two&lt;/em&gt; papers to read (and are, of course, welcome to read both of them, but only expected to read and be able to discuss one of the two papers).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Readings for Week 2</title>
