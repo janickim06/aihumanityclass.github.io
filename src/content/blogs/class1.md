@@ -58,7 +58,7 @@ The focus on Taiwan led to questions about the true reason why TSMC is so far ah
 
 ## Lead: Machines of Loving Grace (Team 5)
 
-<img src="\src\content\static\images\table9class1\download.jpg" width=80% ></img>  
+<img src="/src/content/static/images/table9class1/download.jpg" width=80% ></img>  
 
 *Figure 3: Dario Amodei, author of Machines of Loving Grace. Source: [Time](https://time.com/collections/time100-ai-2025/7305835/dario-amodei-ai/)*  
 
