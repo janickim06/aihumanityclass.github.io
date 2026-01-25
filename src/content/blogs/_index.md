@@ -18,10 +18,12 @@ I believe each team has at least a few members with enough experience using git 
 - [Fork the github repository for the course website](https://github.com/aihumanityclass/aihumanityclass.github.io/fork).  This is what is used to build the
   [https://aihumanityclass.github.io/](https://aihumanityclass.github.io/) site.  One of the members of the blogging team should do this, and then add write permissions for everyone to the forked repository so everyone on your team can contribute to it.
 
-- Copy the `src/content/blogs/template.md` file to create a new `src/content/blogs/class[n].md` file. You should update the header section
-  (between the `+++` marks) and replacing everything after that with
-  your content.  Don't forget to **update the date** so your page will
+- Copy the `src/content/blogs/template.md` file to create a new `src/content/blogs/class[n].md` file. 
+
+- Update the header section (between the `+++` marks), including the title and author. Don't forget to **update the date** so your page will
   appear in the right order. 
+
+- Replace everything after the header with your content.  
 
 - If you have images or other content to incorporate in your page, store these in the `src/content/static/images` or `src/content/static/docs`. If you have more than a few images, you should create a new subdirectory for your content there. Using images and other resources to make your post interesting and visually compelling is
   highly encouraged!

@@ -1,33 +1,26 @@
 +++
 date = "20 Jan 2026"
 draft = true
-title = "Blog Template"
+title = "Class 3: Machines of Loving Grace"
 author = "Team 9"
 +++
 
 
 **Blogging Team 9**: Shriya Ramaka, Amita Pavuloori, Eva Butler, Ted Nyberg, Christine Cheung
 
+[**Lead Topic: _Machines of Loving Grace_**](#main-topic-machines-of-loving-grace). Source: [Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace)
 
-# 20 Jan 2026 Blog
+# News: Chinese Drills Around Taiwan 
 
-## Overview
+**Presented by Team 1: [Slides PDF](/docs/class3-news-slides.pdf)**
 
-China Drills in South China Sea. Source: [NYTimes](https://www.nytimes.com/2025/12/29/world/asia/china-taiwan-military-exercises.html?searchResultPosition=1)  
+- _China Drills in South China Sea_. Chris Buckley and Amy Chang Chien. New York Times, 29 December 2025. Link: [NYTimes](https://www.nytimes.com/2025/12/29/world/asia/china-taiwan-military-exercises.html)  
 
-US Taiwan Trade Deal. Source: [NYTimes](https://www.nytimes.com/2026/01/15/business/taiwan-trade-deal.html?searchResultPosition=1)  
+- _Taiwan Reaches Trade Deal With Trump and Pledges More U.S. Chip Factories_. Meaghan Tobin, Amy Chang Chien and Xinyun Wu. New York Times, 15 January 2026. Link: [NYTimes](https://www.nytimes.com/2026/01/15/business/taiwan-trade-deal.html)  
 
-Machines of Loving Grace. Source: [Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace)
+On December 29, 2025, China launched Justice Mission 2025, a series of military drills in the South China Sea surrounding Taiwan. These drills represent an escalation in tensions between China and Taiwan and its allies, Japan, South Korea, and the United States.    
 
-
-
-
-## News: Chinese Drills Around Taiwan (Team 1)
-
-
-The news team led the class with a debrief on China’s military drills near Taiwan. On December 29, 2025, China launched Justice Mission 2025, a series of military drills in the South China Sea surrounding Taiwan. These drills represent an escalation in tensions between China and Taiwan and its allies, Japan, South Korea, and the United States.    
-
-<img src="/src/content/static/images/table9class1/PLA-Justice-Mission-2025-Exercise-Zones-as-of-December-31-2025.webp" width=80% alt=""></img>  
+<img src="/images/table9class1/PLA-Justice-Mission-2025-Exercise-Zones-as-of-December-31-2025.webp" width=80% alt=""></img>  
 
 *Figure 1: Map of the operation on Dec 29, 2025. Source: [AEI](https://www.aei.org/articles/china-taiwan-update-special-edition-december-31-2025/)*
 
@@ -47,7 +40,9 @@ In January 2026, the U.S. announced a trade deal with Taiwan. Taiwan committed t
 
 The news team concluded that these events stress how control over chip manufacturing is essentially control over who can build powerful AI. Thus, the expansion and progression of AI and supply chains are inseparable from geopolitics.
 
-The class was then opened for discussion. In response to a question about identifying a shift in Taiwan-China relations, specifically due to semiconductors, the news team noted a decrease in global tensions, as of last April to early fall. But, Trump’s recent pushes for deregulation signaled a silent AI war with China. 
+### Discussion
+
+In response to a question about identifying a shift in Taiwan-China relations, specifically due to semiconductors, the news team noted a decrease in global tensions, as of last April to early fall. But, Trump’s recent pushes for deregulation signaled a silent AI war with China. 
 
 One classmate referenced Amodei’s idea of global powers forming AI political coalitions, and questioned how important Taiwan is in this? At present, Taiwan is critical. From both articles, we see two superpowers, the US and China, vying for influence in Taiwan. Though China always claimed Taiwan, their demand for control has strengthened considerably after Taiwan’s rise in chip manufacturing. The US is also concerned with protecting their independence by siding with Taiwan and increasing their domestic chip manufacturing capabilities. Control of Taiwan is control over global AI capacity.
 
@@ -56,25 +51,32 @@ One classmate connected the U.S. and China tensions to our AI 2027 readings, que
 
 Another student was concerned about possible bias in the authors. The two main sources were from the New York Times, written by Taiwanese authors based in Taiwan. This may induce anti-Chinese sentiments into the sources, possibly exaggerating the scope and impact of the drills.
 
-The focus on Taiwan led to questions about the true reason why TSMC is so far ahead in the semiconductor industry. While it is difficult to pinpoint a singular reason or strained resource for their success, Professor Evan emphasized their early origins and investments and access to AMSL Dutch machines for production. Still, since other chip production companies also have access to such machines, Evans said he was still unsure as to how TMSC blows the competition out of the water.
+The focus on Taiwan led to questions about the true reason why TSMC is so far ahead in the semiconductor industry. While it is difficult to pinpoint a singular reason or resource behind TSMC's dominance, Professor Evans emphasized their early origins and investments have given TSMC a technological capability that no one else can match, and effort from US companies (mostly Intel) to catch up, even with substantial government support, have been unsucessful. Another key bottleneck in semiconductor production is the nano-lithography machines used to focus the light precisely enough to create nano-scale circuits. The leading machines are made by AMSL, a Dutch company, and access to those machines is also critical for producing state-of-the-art semiconductors. TSMC has what appears to be a robust and increasing lead, but it isn't clear if they have an insurmountable advantage.
 
+# Main Topic: Machines of Loving Grace
 
+**Presented by Team 5: [Slides PDF](/docs/class3-lead-slides.pdf)**
 
-## Lead: Machines of Loving Grace (Team 5)
+- Dario Amodei (CEO and co-founder of Anthropic), [_Machines of Loving Grace: How AI Could Transform the World for the Better_](https://www.darioamodei.com/essay/machines-of-loving-grace#basic-assumptions-and-framework). October 2024
+[[PDF Link](/docs/amodei2024.pdf)]
 
-<img src="/src/content/static/images/table9class1/download.jpg" width=80% ></img>  
+<img src="/images/table9class1/download.jpg" width=80% ></img>  
 
 *Figure 3: Dario Amodei, author of Machines of Loving Grace. Source: [Time](https://time.com/collections/time100-ai-2025/7305835/dario-amodei-ai/)*   
 
-In class, one of the first things we talked about was how important it is to think about who the author is and what their goals might be when reading an essay like Machines of Loving Grace. Dario Amodei is not just an outside observer writing about AI. He is the CEO of Anthropic and someone who played a major role in the development of early large language models before leaving OpenAI over disagreements about safety. Because of this, we recognized that his perspective carries both credibility and potential bias. He has technical knowledge and access to cutting edge research, but he is also an AI company leader who has incentives to change how people think about the future of AI. Keeping that context in mind helped frame the reading and discussion.  
+In class, one of the first things we talked about was how important it is to think about who the author is and what their goals might be when reading an essay like _Machines of Loving Grace_. 
 
-With that background, Machines of Loving Grace can be seen as an optimistic view of the future of AI. Amodei argues that people underestimate both the risks and the potential benefits of powerful AI, and that focusing on risk does not mean rejecting positive outcomes. He describes powerful AI as a “country of geniuses in a datacenter” that can act autonomously and take real actions. At the same time, he stresses that intelligence does not solve everything, since progress is constrained by the physical world and human systems.  
+Dario Amodei is not just an outside observer writing about AI. He is the CEO of Anthropic and someone who played a major role in the development of early large language models before leaving OpenAI over disagreements about safety. Because of this, we recognized that his perspective carries both credibility and potential bias. He has technical knowledge and access to cutting edge research, but he is also an AI company leader who has incentives to change how people think about the future of AI. Keeping that context in mind helped frame the reading and discussion.  
+
+With that background, _Machines of Loving Grace_ presents an optimistic view of the future of AI. Amodei argues that people underestimate both the risks and the potential benefits of powerful AI, and that taking risks seriously does not mean repressing potential positive outcomes. 
+
+Amodei describes powerful AI as a “country of geniuses in a datacenter” that can act autonomously and take real actions. At the same time, he stresses that intelligence does not solve everything, since progress is constrained by the physical world and human systems.  
 
 One area where Amodei’s optimism is most visible is biology and health. He argues that the biggest challenge in these fields is not a lack of intelligence, but the intrinsic complexity of biological data. By dramatically increasing the number of skilled “researchers” through AI, discoveries could theoretically happen much faster. In class, we discussed how tools like AlphaFold-3 and improved simulations, including experiments modeled on organisms like fruit flies, show early signs of this acceleration. However, it was also noted that despite these advances, there have not yet been any kind of breakthrough discoveries.   
 
 A similar tension appears in his discussion of work and meaning. Amodei argues that even as AI outperforms humans in most tasks, people will continue to find fulfillment in the remaining areas where human contribution matters, suggesting that meaningful work can persist even if AI performs the majority of labor. While this view is optimistic, class discussion raised concerns about whether society can adapt quickly enough to prevent large-scale job loss, especially if economic support systems such as universal basic income lag behind technological change.    
 
-<img src="/src/content/static/images/table9class1/test-scores-ai-capabilities-relative-human-performance.png" width=80% ></img>    
+<img src="/images/table9class1/test-scores-ai-capabilities-relative-human-performance.png" width=80% ></img>    
 
 *Figure 4: AI performance in various tasks relative to humans. Source: [Our World in Data](https://ourworldindata.org/grapher/test-scores-ai-capabilities-relative-human-performance)* 
 
