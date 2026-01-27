@@ -16,7 +16,7 @@ As AI continues to develop, we can see some improvementbrought io daily lives by
 # News: [Data Center Resistance](https://docs.google.com/presentation/d/1vNjUv6BS0hylf2qBSCKA7JbJmYXFvwakFKG6oy3dMCA/edit?slide=id.p#slide=id.p)
 
 <figure style="text-align: center;">
-  <img src="/images/server.webp" alt="Inside look at Google data center" style="display: block; margin: 0 auto;">
+  <img src="/workspaces/aihumanityclass.github.io/src/static/images/server.webp" alt="Inside look at Google data center" style="display: block; margin: 0 auto;">
   <figcaption>
     <strong>Figure 1:</strong> Inside view of a Google data center (<a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/googles-data-centers-inside-look/">Link</a>)
   </figcaption>
@@ -31,7 +31,7 @@ Apart from making electricty less affordable and paying less money than what peo
 Although data centers face pushback from people on both ends of the poltical spectrum, the issue is much more nuanced. Although they consume significant amounts of electricity and have had noticable negative externalities on some local communities, there are arguments that these "bads" don't outweigh the "goods". For one, some lawmakers believe that data centers can act as a strong source of economic growth for Virginia. Additionally, although data centers currently consume more than [4% of the US's electricity consumption](https://www.pewresearch.org/short-reads/2025/10/24/what-we-know-about-energy-use-at-us-data-centers-amid-the-ai-boom/?utm_source=chatgpt.com) and is projected to more than double than figure by 2030, they only consume [1% of global electricity and emit a measly 0.5% of greenhouse gas emissions](https://www.carbonbrief.org/ai-five-charts-that-put-data-centre-energy-use-and-emissions-into-context/?utm_source=chatgpt.com). Some may look at these figures and argue that the benefits received from unlimited AI access in everyone's pockets, 24/7 news streaming, connectivity through social media, and more largely outweigh the consumption risks. 
 
 <figure style="text-align: center;">
-  <img src="/images/energy.webp" alt="Data center energy usage in the US" style="display: block; margin: 0 auto;">
+  <img src="/workspaces/aihumanityclass.github.io/src/static/images/energy.webp" alt="Data center energy usage in the US" style="display: block; margin: 0 auto;">
   <figcaption>
     <strong>Figure 2:</strong> Data center energy usage in the US (<a href="https://www.pewresearch.org/short-reads/2025/10/24/what-we-know-about-energy-use-at-us-data-centers-amid-the-ai-boom/?utm_source=chatgpt.com">Link</a>)
   </figcaption>
@@ -42,7 +42,7 @@ Overall, the question on how "good" or "bad" data centers are is a murky one at 
 ## Discussion Points
 
 <figure style="text-align: center;">
-  <img src="/images/map.png" alt="Map of data centers around the US" style="display: block; margin: 0 auto;">
+  <img src="/workspaces/aihumanityclass.github.io/src/static/images/map.png" alt="Map of data centers around the US" style="display: block; margin: 0 auto;">
   <figcaption>
     <strong>Figure 3:</strong> Map of data centers around the US (<a href="https://www.datacentermap.com/usa/">Link</a>)
   </figcaption>
