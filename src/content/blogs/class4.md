@@ -5,7 +5,13 @@ title = "Class 4: AI 2027 and AI as Normal Technology"
 author = "Team 10"
 +++
 
-**Blogging Team 10**: Nurdin Hossain, [ADD MORE NAMES HERE]
+**Blogging Team 10**: Nurdin Hossain, Ruizhang Chen, [ADD MORE NAMES HERE]
+
+# Professor Evans' Take on _Machines of Loving Grace_:
+
+Although Amodei's list has covered some of the areas in which AI has or will have significant impackt, Professor Evans points out tha there's still something missing on the list. One thing to notice is that everything in his list mostly affects “rich” and “healthy” people’s daily lives. It may be difficult for average people to get access to the new technology. 
+
+As AI continues to develop, we can see some improvementbrought io daily lives by AI in the next 5-10 years. Transportataion, for intance, has seen huge progress over the past few years. Waymo has started testing its fully autonomous driving car in California, and Texas. Fullly autonomous vehcles are getting closer and closer. We may also experience change in the way we communicate. Internet has revloluted communication. It brought people closer to each other although we are still far away phisically. AI may even bring this a step further.
 
 # News: [Data Center Resistance](https://docs.google.com/presentation/d/1vNjUv6BS0hylf2qBSCKA7JbJmYXFvwakFKG6oy3dMCA/edit?slide=id.p#slide=id.p)
 
