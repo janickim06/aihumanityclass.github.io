@@ -10,7 +10,7 @@ author = "Team 10"
 # Summary
 
 [**News: Data Center Resistance**](#news-data-center-resistance)  
-**Topic: [AI2027](#ai-2027) and [AI as Normal Technology](#ai-as-normal-technology)**]
+**Topic: [AI2027](#ai-2027) and [AI as Normal Technology](#ai-as-normal-technology)**
 
 During our fourth class, we had riveting discussions on how AI will affect our future. 
 
