@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Class Blogs on AI and Humanity</title>
-    <link>https://aihumanityclass.github.io/blogs/</link>
+    <link>http://localhost:1313/blogs/</link>
     <description>Recent content in Class Blogs on AI and Humanity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://aihumanityclass.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Class 4: AI 2027 and AI as Normal Technology</title>
+      <link>http://localhost:1313/blogs/class4/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/class4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Blogging Team 10&lt;/strong&gt;: Nurdin Hossain, Ruizhang Chen, [ADD MORE NAMES HERE]&lt;/p&gt;&#xA;&lt;h1 id=&#34;professor-evans-take-on-machines-of-loving-grace&#34;&gt;Professor Evans&amp;rsquo; Take on &lt;em&gt;Machines of Loving Grace&lt;/em&gt;:&lt;/h1&gt;&#xA;&lt;figure style=&#34;text-align: center;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/list.png&#34; alt=&#34;Amodei&#39;s list&#34; style=&#34;display: block; margin: 0 auto;&#34;&gt;&#xA;  &lt;figcaption&gt;&#xA;    &lt;strong&gt;Figure 1:&lt;/strong&gt; Amodei&#39;s List (&lt;a href=&#34;https://www.dropbox.com/scl/fi/vcq2qpxuzyjmah26uzryw/cs4501ha-s26-class4.pdf?rlkey=v571s5vyowsd0ifykr8gu1qyv&amp;e=2&amp;dl=0&#34;&gt;Source&lt;/a&gt;)&#xA;  &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;Although Amodei&amp;rsquo;s list has covered some of the areas in which AI has or will have significant impack, Professor Evans points out tha there&amp;rsquo;s still something missing on the list. One thing to notice is that everything in his list mostly affects “rich” and “healthy” people’s daily lives. It may be difficult for average people to get access to the new technology.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog Template</title>
+      <link>http://localhost:1313/blogs/template/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/template/</guid>
+      <description>&lt;p&gt;Replace this with your blog!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Blogging Team [N]&lt;/strong&gt;: &lt;em&gt;list your names how you want them to be seen&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;marking-big-heading&#34;&gt;Marking Big Heading&lt;/h1&gt;&#xA;&lt;h2 id=&#34;little-heading&#34;&gt;Little Heading&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;em&gt;italics&lt;/em&gt; and &lt;strong&gt;bold&lt;/strong&gt;. You can use latex math, but probably won&amp;rsquo;t need to for this blog.&lt;/p&gt;&#xA;&lt;p&gt;To include an image, store the image file in src/content/static/images/. Then, use&#xA;&lt;img src=&#34;http://localhost:1313/images/humanitylogo.png&#34; width=80% alt=&#34;This is the course logo&#34;&gt;&lt;/img&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you have other files to include, put them in static/docs.&lt;/p&gt;&#xA;&lt;p&gt;You shouldn&amp;rsquo;t need to change the layouts or other files, but if you want to improve them without breaking things, that&amp;rsquo;s fine.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Class 3: Machines of Loving Grace</title>
-      <link>https://aihumanityclass.github.io/blogs/class3/</link>
+      <link>http://localhost:1313/blogs/class3/</link>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://aihumanityclass.github.io/blogs/class3/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Blogging Team 9&lt;/strong&gt;: Shriya Ramaka, Amita Pavuloori, Eva Butler, Ted Nyberg, Christine Cheung&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#main-topic-machines-of-loving-grace&#34;&gt;&lt;strong&gt;Lead Topic: &lt;em&gt;Machines of Loving Grace&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;. Source: &lt;a href=&#34;https://www.darioamodei.com/essay/machines-of-loving-grace&#34;&gt;Dario Amodei&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;news-chinese-drills-around-taiwan&#34;&gt;News: Chinese Drills Around Taiwan&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Presented by Team 1: &lt;a href=&#34;https://aihumanityclass.github.io/docs/class3-news-slides.pdf&#34;&gt;Slides PDF&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;China Drills in South China Sea&lt;/em&gt;. Chris Buckley and Amy Chang Chien. New York Times, 29 December 2025. Link: &lt;a href=&#34;https://www.nytimes.com/2025/12/29/world/asia/china-taiwan-military-exercises.html&#34;&gt;NYTimes&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Taiwan Reaches Trade Deal With Trump and Pledges More U.S. Chip Factories&lt;/em&gt;. Meaghan Tobin, Amy Chang Chien and Xinyun Wu. New York Times, 15 January 2026. Link: &lt;a href=&#34;https://www.nytimes.com/2026/01/15/business/taiwan-trade-deal.html&#34;&gt;NYTimes&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blogs/class3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Blogging Team 9&lt;/strong&gt;: Shriya Ramaka, Amita Pavuloori, Eva Butler, Ted Nyberg, Christine Cheung&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;#main-topic-machines-of-loving-grace&#34;&gt;&lt;strong&gt;Lead Topic: &lt;em&gt;Machines of Loving Grace&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;. Source: &lt;a href=&#34;https://www.darioamodei.com/essay/machines-of-loving-grace&#34;&gt;Dario Amodei&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;news-chinese-drills-around-taiwan&#34;&gt;News: Chinese Drills Around Taiwan&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Presented by Team 1: &lt;a href=&#34;http://localhost:1313/docs/class3-news-slides.pdf&#34;&gt;Slides PDF&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;China Drills in South China Sea&lt;/em&gt;. Chris Buckley and Amy Chang Chien. New York Times, 29 December 2025. Link: &lt;a href=&#34;https://www.nytimes.com/2025/12/29/world/asia/china-taiwan-military-exercises.html&#34;&gt;NYTimes&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Taiwan Reaches Trade Deal With Trump and Pledges More U.S. Chip Factories&lt;/em&gt;. Meaghan Tobin, Amy Chang Chien and Xinyun Wu. New York Times, 15 January 2026. Link: &lt;a href=&#34;https://www.nytimes.com/2026/01/15/business/taiwan-trade-deal.html&#34;&gt;NYTimes&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
