@@ -26,9 +26,9 @@ Some additional readings (that are not expected for everyone, but are optional, 
 
 Readings for Tuesday, 10 February:
 
-- Cynthia Rudin. [_Stop explaining black box machine learning
+- Cynthia Rudin. _Stop explaining black box machine learning
 models for high stakes decisions and use
-interpretable models instead_]. Nature Machine Intelligence, May 2019. [[PDF Link](/docs/rudin2019.pdf)] [[arXiv version](https://arxiv.org/abs/1811.10154) (less nicely formatted, but with fixed equations)]
+interpretable models instead_. Nature Machine Intelligence, May 2019. [[PDF Link](/docs/rudin2019.pdf)] [[arXiv version](https://arxiv.org/abs/1811.10154) (less nicely formatted, but with fixed equations)]
 
 
 
