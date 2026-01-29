@@ -22,7 +22,7 @@ Readings for Thursday, 5 February:
 
 Some additional readings (that are not expected for everyone, but are optional, and potentially readings the Lead Team will include):
 
-- [Chapter 3: _Classification_](https://fairmlbook.org/classification.html) from Solon Barocas, Moritz Hardt, Arvind Narayanan. [Fairness and machine learning: Limitations and Opportunities](https://fairmlbook.org/) ("FairML book"). MIT Press, 2023. (The full book is openly available at [https://fairmlbook.org)](https://fairmlbook.org/)].) [[Chapter Link]((https://fairmlbook.org/))]
+- [Chapter 3: _Classification_](https://fairmlbook.org/classification.html) from Solon Barocas, Moritz Hardt, Arvind Narayanan. [Fairness and machine learning: Limitations and Opportunities](https://fairmlbook.org/) ("FairML book"). MIT Press, 2023. (The full book is openly available at [https://fairmlbook.org)](https://fairmlbook.org/)].) [[Chapter Link](https://fairmlbook.org/classification.html)]
 
 Readings for Tuesday, 12 February:
 
