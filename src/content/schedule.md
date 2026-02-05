@@ -285,7 +285,7 @@ slug = "schedule"
   <td>Thursday 29 Jan</td>
   <td>AI Genomics (3)</td>
   <td>AlphaFold (7)</td>
-  <td><a href="https://aihumanityclass.github.io/readings-for-week-3/">Readings</a> <font color="red">(Blog 11)</font></td>
+  <td><a href="/blogs/class5/">Class 5</a> (12)</td>
   </tr>
   <tr>
   <td>Tuesday 3 Feb</td>
