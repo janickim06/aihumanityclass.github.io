@@ -2,7 +2,7 @@
 date = "07 Feb 2026"
 draft = true
 title = "Class 7: AI Bias and Interpretability"
-author = "Team [1]"
+author = "Team 1"
 +++
 
 **Blogging Team [1]**: Tristan Grubbs, Srikar Bangaru, Sarah Francis, Amanda Appiah-Yeboah, Matthew Janicki 
